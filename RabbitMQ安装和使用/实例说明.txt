@@ -1,0 +1,5 @@
+参考博客：
+https://www.cnblogs.com/boshen-hzb/p/6841982.html
+
+MQ本地访问地址：
+http://blog.csdn.net/sharetop/article/details/49716897
